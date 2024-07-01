@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372566193058",
+    "project_id": "pushpak-323b8",
+    "storage_bucket": "pushpak-323b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372566193058:android:585b70ff05ed637787b8fb",
+        "android_client_info": {
+          "package_name": "com.xander.pushpak_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KdBpyOKlgU4jsnGWn8qezm-sIo97OsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
