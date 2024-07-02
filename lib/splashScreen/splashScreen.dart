@@ -12,8 +12,13 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text(
-          "Pushpak"
+        child: Column(
+          children: [
+            Text(
+              "Pushpak"
+            ),
+            SizedBox(),
+          ],
         ),
       ),
     );
