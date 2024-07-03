@@ -17,7 +17,6 @@ class _SplashScreenState extends State<SplashScreen> {
             Text(
               "Pushpak"
             ),
-            SizedBox(),
           ],
         ),
       ),
